@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/simple-react-app-mosh/static/js/main.59f9bdec.chunk.js",
+    "main.js.map": "/simple-react-app-mosh/static/js/main.59f9bdec.chunk.js.map",
+    "runtime-main.js": "/simple-react-app-mosh/static/js/runtime-main.21628eb5.js",
+    "runtime-main.js.map": "/simple-react-app-mosh/static/js/runtime-main.21628eb5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/simple-react-app-mosh/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89d60b34.chunk.js": "/simple-react-app-mosh/static/js/2.89d60b34.chunk.js",
+    "static/js/2.89d60b34.chunk.js.map": "/simple-react-app-mosh/static/js/2.89d60b34.chunk.js.map",
+    "index.html": "/simple-react-app-mosh/index.html",
+    "precache-manifest.fcf34076921985f68bccafe60054fad6.js": "/simple-react-app-mosh/precache-manifest.fcf34076921985f68bccafe60054fad6.js",
+    "service-worker.js": "/simple-react-app-mosh/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/simple-react-app-mosh/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.89d60b34.chunk.js.LICENSE.txt": "/simple-react-app-mosh/static/js/2.89d60b34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21628eb5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.89d60b34.chunk.js",
+    "static/js/main.59f9bdec.chunk.js"
+  ]
+}
